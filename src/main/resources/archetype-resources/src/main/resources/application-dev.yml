@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: app-springboot
+
+logging:
+  level:
+    root: info
